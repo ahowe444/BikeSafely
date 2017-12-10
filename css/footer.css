@@ -1,0 +1,29 @@
+ #footer {
+     width: auto; 
+     font-size: 12px; 
+     line-height: 24px; 
+     min-height: 200px; 
+     min-width:1010px; 
+     margin: 0 auto; 
+     padding:20px 0; 
+     text-align: center;
+     background-color:#CCCCCC; 
+     color:#0053A1;}
+#footerContainer {
+    width: 1000px; 
+    margin: 0 auto; 
+    height:auto; 
+    overflow:auto;}
+
+.footer-column{
+    float: left;
+    text-align: center;
+    position: relative; 
+    margin:0; 
+    padding: 10px 25px;}
+	#footer-Col1 {}
+	#footer-Col2 {color:black; float: center;}
+    #footer-Col3 {}
+
+#footer ul { margin:0; padding:0;}
+#footer li {list-style: none; margin-bottom: 10px; padding-left:30px;}
